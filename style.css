@@ -285,7 +285,7 @@ border-radius: 60px;
 }
 @media screen and (min-width: 720px){
     body {
-        background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgba(0,212,255,0) 50%, rgb(0, 0, 0) 100%), url('img/bg-desktop-back.webp') no-repeat top center;
+        background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgba(0,212,255,0) 50%, rgb(0, 0, 0) 100%), url('bg-desktop-back.webp') no-repeat top center;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
